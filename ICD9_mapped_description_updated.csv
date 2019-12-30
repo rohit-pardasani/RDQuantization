@@ -1,0 +1,77 @@
+row_id,icd9_code,short_title,long_title
+5418,4619,Acute sinusitis NOS,"Acute sinusitis, unspecified"
+5419,462,Acute pharyngitis,Acute pharyngitis
+5434,4659,Acute uri NOS,Acute upper respiratory infections of unspecified site
+5435,4660,Acute bronchitis,Acute bronchitis
+5439,4710,Polyp of nasal cavity,Polyp of nasal cavity
+5478,47829,Disease of pharynx NEC,"Other diseases of pharynx, not elsewhere classified"
+5481,47832,Vocal paral unilat total,"Unilateral paralysis of vocal cords or larynx, complete"
+5489,47874,Stenosis of larynx,Stenosis of larynx
+5490,47875,Laryngeal spasm,Laryngeal spasm
+5500,481,Pneumococcal pneumonia,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+5501,4820,K. pneumoniae pneumonia,Pneumonia due to Klebsiella pneumoniae
+5502,4821,Pseudomonal pneumonia,Pneumonia due to Pseudomonas
+5503,4822,H.influenzae pneumonia,Pneumonia due to Hemophilus influenzae [H. influenzae]
+5504,48230,Streptococcal pneumn NOS,"Pneumonia due to Streptococcus, unspecified"
+5508,48240,Staphylococcal pneu NOS,"Pneumonia due to Staphylococcus, unspecified"
+5509,48241,Meth sus pneum d/t Staph,Methicillin susceptible pneumonia due to Staphylococcus aureus
+5512,48281,Pneumonia anaerobes,Pneumonia due to anaerobes
+5513,48282,Pneumonia e coli,Pneumonia due to escherichia coli [E. coli]
+5514,48283,Pneumo oth grm-neg bact,Pneumonia due to other gram-negative bacteria
+5517,4829,Bacterial pneumonia NOS,"Bacterial pneumonia, unspecified"
+5518,4830,Pneu mycplsm pneumoniae,Pneumonia due to mycoplasma pneumoniae
+5520,4838,Pneumon oth spec orgnsm,Pneumonia due to other specified organism
+5524,4846,Pneum in aspergillosis,Pneumonia in aspergillosis
+5527,485,Bronchopneumonia org NOS,"Bronchopneumonia, organism unspecified"
+5528,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+5529,4870,Influenza with pneumonia,Influenza with pneumonia
+5530,4871,Flu w resp manifest NEC,Influenza with other respiratory manifestations
+5544,49120,Obst chr bronc w/o exac,Obstructive chronic bronchitis without exacerbation
+5545,49121,Obs chr bronc w(ac) exac,Obstructive chronic bronchitis with (acute) exacerbation
+5546,49122,Obs chr bronc w ac bronc,Obstructive chronic bronchitis with acute bronchitis
+5548,4919,Chronic bronchitis NOS,Unspecified chronic bronchitis
+5549,4920,Emphysematous bleb,Emphysematous bleb
+5096,4928,Emphysema NEC,Other emphysema
+5099,49302,Ext asthma w(acute) exac,Extrinsic asthma with (acute) exacerbation
+5103,49320,Chronic obst asthma NOS,"Chronic obstructive asthma, unspecified"
+5104,49321,Ch ob asthma w stat asth,Chronic obstructive asthma with status asthmaticus
+5105,49322,Ch obst asth w (ac) exac,Chronic obstructive asthma with (acute) exacerbation
+5108,49390,Asthma NOS,"Asthma, unspecified type, unspecified"
+5109,49391,Asthma w status asthmat,"Asthma, unspecified type, with status asthmaticus"
+5110,49392,Asthma NOS w (ac) exac,"Asthma, unspecified type, with (acute) exacerbation"
+5111,4940,Bronchiectas w/o ac exac,Bronchiectasis without acute exacerbation
+5112,4941,Bronchiectasis w ac exac,Bronchiectasis with acute exacerbation
+5123,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+5136,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+5138,5078,Solid/liq pneumonit NEC,Pneumonitis due to other solids and liquids
+5140,5081,Chr pul manif d/t radiat,Chronic and other pulmonary manifestations due to radiation
+5144,5100,Empyema with fistula,Empyema with fistula
+5145,5109,Empyema w/o fistula,Empyema without mention of fistula
+5146,5110,Pleurisy w/o effus or TB,Pleurisy without mention of effusion or current tuberculosis
+5150,5119,Pleural effusion NOS,Unspecified pleural effusion
+5151,5120,Spont tens pneumothorax,Spontaneous tension pneumothorax
+5152,5121,Iatrogenic pneumothorax,Iatrogenic pneumothorax
+5159,5130,Abscess of lung,Abscess of lung
+5161,514,Pulm congest/hypostasis,Pulmonary congestion and hypostasis
+5162,515,Postinflam pulm fibrosis,Postinflammatory pulmonary fibrosis
+5181,5168,Alveol pneumonopathy NEC,Other specified alveolar and parietoalveolar pneumonopathies
+5186,5178,Lung involv in oth dis,Lung involvement in other diseases classified elsewhere
+5269,5180,Pulmonary collapse,Pulmonary collapse
+5270,5181,Interstitial emphysema,Interstitial emphysema
+5273,5184,Acute lung edema NOS,"Acute edema of lung, unspecified"
+5279,51881,Acute respiratry failure,Acute respiratory failure
+5280,51882,Other pulmonary insuff,"Other pulmonary insufficiency, not elsewhere classified"
+5281,51883,Chronic respiratory fail,Chronic respiratory failure
+5282,51884,Acute & chronc resp fail,Acute and chronic respiratory failure
+5283,51889,Other lung disease NEC,"Other diseases of lung, not elsewhere classified"
+5285,51901,Tracheostomy infection,Infection of tracheostomy
+5286,51902,Tracheostomy - mech comp,Mechanical complication of tracheostomy
+5287,51909,Tracheostomy comp NEC,Other tracheostomy complications
+5289,51919,Trachea & bronch dis NEC,Other diseases of trachea and bronchus
+5291,5193,Mediastinum disease NEC,"Other diseases of mediastinum, not elsewhere classified"
+5292,5194,Disorders of diaphragm,Disorders of diaphragm
+5293,5198,Resp system disease NEC,"Other diseases of respiratory system, not elsewhere classified"
+9999,5185,Pulm insuff fol trma/srg,Pulmonary insufficiency following trauma and surgery
+5274,51851,Ac resp flr fol trma/srg,Acute respiratory failure following trauma and surgery
+5275,51852,Ot pul insuf fol trm/srg,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+5276,51853,Ac/chr rsp flr fol tr/sg,Acute and chronic respiratory failure following trauma and surgery

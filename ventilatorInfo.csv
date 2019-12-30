@@ -1,0 +1,9 @@
+itemid,label,abbreviation,dbsource
+720,Ventilator Mode,,carevue
+721,Ventilator No.,,carevue
+722,Ventilator Type,,carevue
+3681,Ventilator Number,,carevue
+223848,Ventilator Type,Ventilator Type,metavision
+223849,Ventilator Mode,Ventilator Mode,metavision
+227565,Ventilator Tank #1,Ventilator Tank #1,metavision
+227566,Ventilator Tank #2,Ventilator Tank #2,metavision
