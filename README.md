@@ -17,8 +17,8 @@
 
 8.	Algorithms: Logistic Regression, Support Vector Machine, Multilayer Perceptron, Convolutional Neural Network (CNN), Decision Trees, Long Short Term Memory (LSTM)
 
-9.	Possible Deployment: Platform on which streaming data of these 2 parameters is available. 
-    a.	Ambulatory Monitoring System where RR & SpO2 are available
-    b.  ICU Monitoring System
+9.	Possible Deployment: Platform on which streaming data of these 2 parameters is available. <br>
+    a.	Ambulatory Monitoring System where RR & SpO2 are available <br>
+    b.  ICU Monitoring System <br>
 
 ![Graph](https://github.com/rohit-pardasani/RDQuantization_v1/blob/master/graph.png)
