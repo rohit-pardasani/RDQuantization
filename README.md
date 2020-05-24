@@ -21,5 +21,4 @@
     a.	Ambulatory Monitoring System where RR & SpO2 are available
     b.  ICU Monitoring System
 
-<embed src="https://github.com/rohit-pardasani/RDQuantization_v1/blob/master/Figure-7.pdf" width="500" height="375" 
- type="application/pdf">
+![Graph](https://github.com/rohit-pardasani/RDQuantization_v1/blob/master/graph.png)
