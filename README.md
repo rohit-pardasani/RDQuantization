@@ -1,4 +1,4 @@
-# Quantiative Assessment of Respiratory Distress Severity <br> Machine Learning and Deep Learning Approachesto Quantify Respiratory Distress Severity andPredict Critical Alarms
+<b> Quantiative Assessment of Respiratory Distress Severity</b> <br> <b>Machine Learning and Deep Learning Approachesto Quantify Respiratory Distress Severity andPredict Critical Alarms</br>
 
 1.	Definition: Respiratory Distress is usually characterized by laboured breathing or signs that patient is not getting enough oxygen. Assessment of respiratory distress (RD) is crucial not only from the perspective of determining clinical stability of patient but is also linked with the initiation of resuscitation efforts by rapid response team in hospitals. Rising severity of RD is often considered as harbinger of other life-threatening conditions like acute respiratory distress syndrome (ARDS), cardiac arrest, respiratory failure etc
 
