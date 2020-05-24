@@ -14,7 +14,7 @@
 
 5.	Sampling Rate: 1 sample/minute
 
-6.	Database Used for Present Model: MIMIC-III
+6.	Database Used for Present Models: MIMIC-III
 
 7.	Annotations: Clinical annotations of 912 records
 
